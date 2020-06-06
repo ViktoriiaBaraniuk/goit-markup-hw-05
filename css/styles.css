@@ -383,7 +383,7 @@ img {
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.test {
+.link-client {
   fill: #afb1b8;
 }
 
@@ -392,8 +392,8 @@ img {
   border-color: var(--accent-color);
   cursor: pointer;
 }
-.pic:hover .test,
-.pic:focus .test {
+.pic:hover .link-client,
+.pic:focus .link-client {
   fill: var(--accent-color);
 }
 .icon-client {
