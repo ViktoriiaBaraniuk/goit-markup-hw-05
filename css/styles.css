@@ -264,10 +264,7 @@ img {
 .projects {
   display: flex;
 }
-/* установлен background-color для секции чтобы были видны заголовки*/
-.works {
-  background-color: #f76606;
-}
+
 .projects .unit {
   position: relative;
 }
